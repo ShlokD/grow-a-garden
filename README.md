@@ -1,3 +1,5 @@
-# Flighty Mango
+# Grow a Garden
 
-Preact + Vite + Eslint + Prettier + TailwindCSS
+Point + Click Garden Simulator
+
+Demo: https://grow-a-garden.surge.sh/
